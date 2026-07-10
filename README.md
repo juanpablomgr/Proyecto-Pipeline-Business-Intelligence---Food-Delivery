@@ -87,6 +87,6 @@ apellido-proyecto-etl-delivery/
 ---
 
 ## 👤 Autor
-[Tu nombre]
+Juan Pablo Mendoza Granda
 Módulo: Python para Análisis de Datos
 Instructor: Christian Condori
