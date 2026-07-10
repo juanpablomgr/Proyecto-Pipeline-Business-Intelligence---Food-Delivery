@@ -1,28 +1,27 @@
-# 🚀 Pipeline ETL & Inteligencia de Mercado — Food Delivery USA
+# 🛵 📲 🍔 Pipeline ETL & Inteligencia de Mercado — Food Delivery USA
 
-Este proyecto presenta un análisis integral del mercado de food delivery 
-en Estados Unidos, documentando todo el ciclo de vida de los datos: 
-desde la **extracción y limpieza (ETL)** hasta la **visualización 
-estratégica** orientada a la toma de decisiones del CEO.
+Este proyecto presenta un análisis integral del mercado de una startup nueva de Food Delivery 
+que busca expandirse en Estados Unidos. Se documentan todo el ciclo de vida de los datos: 
+desde la **extracción, transformación y limpieza (ETL)** hasta la **visualización 
+estratégica de los datos** orientada a extracción de insights y la toma de decisiones del CEO.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 💻 Tecnologías Utilizadas
 - **Lenguaje:** Python, SQL (SQLite)
-- **Bibliotecas:** `Pandas`, `Matplotlib`, `SQLAlchemy`
+- **Bibliotecas:** `Pandas`, `Numpy`, `Matplotlib`, `SQLAlchemy`
 - **Base de Datos:** SQLite (`delivery_insights.db`)
 - **Entorno:** Google Colab (`.ipynb`)
-
 ---
 
-## ⚙️ Arquitectura del Pipeline
+## 📐 Arquitectura del Pipeline
 
 | Fase | Descripción |
 |:-----|:------------|
 | **Extract** | Carga de `restaurants.csv` y 10 archivos de menús con bucle automático |
 | **Transform** | Limpieza de precios, mapeo de rangos, split de direcciones y filtros de calidad |
 | **Load** | Carga a base de datos SQLite mediante SQLAlchemy |
-| **BI** | 4 queries SQL con visualizaciones estratégicas en Matplotlib |
+| **Business Intelligence** | Queries SQL con visualizaciones estratégicas en Matplotlib, insights para toma de decisiones |
 
 ---
 
@@ -31,7 +30,17 @@ estratégica** orientada a la toma de decisiones del CEO.
 | Archivo | Descripción | Registros |
 |:--------|:------------|:----------|
 | `restaurants.csv` | Catálogo maestro de restaurantes | ~63,000 |
-| `restaurant_menus_parte_1 al 10.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_1.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_2.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_3.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_4.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_5.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_6.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_6.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_7.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_8.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_9.csv` | Detalle de ítems de menú | ~900,000 |
+| `restaurant_menus_parte_10.csv` | Detalle de ítems de menú | ~900,000 |
 
 ---
 
@@ -74,6 +83,15 @@ apellido-proyecto-etl-delivery/
 ├── data/
 │   ├── restaurants.csv
 │   └── restaurant_menus_parte_1.csv
+│   └── restaurant_menus_parte_2.csv
+│   └── restaurant_menus_parte_3.csv
+│   └── restaurant_menus_parte_4.csv
+│   └── restaurant_menus_parte_5.csv
+│   └── restaurant_menus_parte_6.csv
+│   └── restaurant_menus_parte_7.csv
+│   └── restaurant_menus_parte_8.csv
+│   └── restaurant_menus_parte_9.csv
+│   └── restaurant_menus_parte_10.csv
 │       ...
 ├── graficos/
 │   ├── grafico_1_ciudades.png
