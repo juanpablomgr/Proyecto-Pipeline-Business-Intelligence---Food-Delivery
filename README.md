@@ -1,5 +1,3 @@
-# 🛵 📲 🍔 Pipeline ETL & Inteligencia de Mercado — Food Delivery USA
-
 # 🚀 Pipeline ETL & Inteligencia de Mercado — Food Delivery USA
 
 Este proyecto presenta un análisis integral del mercado de food delivery 
@@ -51,12 +49,31 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ## 📊 Resultados y Visualizaciones
 
-| Pregunta de Negocio | Insight | 
-|:--------------------|:--------|
-| **1. Penetración Geográfica** | Seattle lidera con 388 restaurantes |
-| **2. Distribución de Precios** | El 75% del mercado opera en segmento Económico |
-| **3. Precio Promedio por Ciudad** | Seattle tiene el mayor precio promedio ($12.05 USD) |
-| **4. Correlación Precio-Calidad** | Correlación de 0.79 pero no es regla absoluta |
+### 🏙️ 1. Penetración Geográfica
+Seattle lidera el mercado con 388 restaurantes — es la ciudad prioritaria para el lanzamiento.
+
+![Ciudades](img/img1.png)
+
+---
+
+### 💰 2. Distribución de Precios
+El 75% del mercado opera en segmento Económico — posicionarse aquí garantiza el mayor volumen.
+
+![Precios](img/img2.png)
+
+---
+
+### 🍽️ 3. Precio Promedio por Ciudad
+Seattle tiene el mayor precio promedio con $12.05 USD — mayor disposición a pagar y potencial de margen.
+
+![Ciudad](img/img3.png)
+
+---
+
+### ⭐ 4. Correlación Precio vs Calidad
+Correlación de 0.79 — el precio no garantiza mejor experiencia. Los restaurantes económicos superan en score a los moderadamente caros.
+
+![Correlacion](img/img4.png)
 
 ---
 
@@ -81,6 +98,11 @@ Proyecto-Pipeline-Business-Intelligence---Food-Delivery/
 │   ├── restaurant_menus_parte_2.csv
 │   ├── ...
 │   └── restaurant_menus_parte_10.csv
+├── img/
+│   ├── img1.png
+│   ├── img2.png
+│   ├── img3.png
+│   └── img4.png
 ├── ProyectoIntegrador.ipynb
 └── README.md
 ```
@@ -88,6 +110,4 @@ Proyecto-Pipeline-Business-Intelligence---Food-Delivery/
 ---
 
 ## 👤 Autor
-**Juan Pablo**  
-Módulo: Python para Análisis de Datos  
-Instructor: Christian Condori
+**Juan Pablo Mendoza Granda**  
