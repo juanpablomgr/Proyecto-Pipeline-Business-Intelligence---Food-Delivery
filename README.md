@@ -49,33 +49,12 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ## 📊 Resultados y Visualizaciones
 
-### 🏙️ 1. Penetración Geográfica
-Seattle lidera el mercado con 388 restaurantes — es la ciudad prioritaria para el lanzamiento.
-
-![Ciudades](img1.png)
-
-
----
-
-### 💰 2. Distribución de Precios
-El 75% del mercado opera en segmento Económico — posicionarse aquí garantiza el mayor volumen.
-
-![Precios](img2.png)
-
----
-
-### 🍽️ 3. Precio Promedio por Ciudad
-Seattle tiene el mayor precio promedio con $12.05 USD — mayor disposición a pagar y potencial de margen.
-
-![Ciudad](img3.png)
-
----
-
-### ⭐ 4. Correlación Precio vs Calidad
-Correlación de 0.79 — el precio no garantiza mejor experiencia. Los restaurantes económicos superan en score a los moderadamente caros.
-
-![Correlacion](img4.png)
-
+| # | Pregunta | Insight | Gráfico |
+|:--|:---------|:--------|:--------|
+| 1 | 🏙️ Penetración Geográfica | Seattle lidera con 388 restaurantes | ![Ciudades](img1.png) |
+| 2 | 💰 Distribución de Precios | El 75% opera en segmento Económico | ![Precios](img2.png) |
+| 3 | 🍽️ Precio Promedio por Ciudad | Seattle lidera con $12.05 USD promedio | ![Ciudad](img3.png) |
+| 4 | ⭐ Correlación Precio vs Calidad | Correlación 0.79 — precio no garantiza calidad | ![Correlacion](img4.png) |
 ---
 
 ## 💡 Conclusión Estratégica
