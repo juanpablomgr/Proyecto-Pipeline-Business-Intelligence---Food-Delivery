@@ -30,8 +30,8 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 | Archivo | Descripción | Registros Aprox. |
 |:--------|:------------|:-----------------|
-| `data/restaurants.csv` | Catálogo maestro de restaurantes | 63,000 |
-| `data/restaurant_menus_parte_1 al 10.csv` | Detalle de ítems de menú dividido en 10 partes | 900,000 |
+| `datasets/restaurants.csv` | Catálogo maestro de restaurantes | 63,000 |
+| `datasets/restaurant_menus_parte_1 al 10.csv` | Detalle de ítems de menú dividido en 10 partes | 900,000 |
 
 ---
 
@@ -72,7 +72,7 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ```text
 Proyecto-Pipeline-Business-Intelligence---Food-Delivery/
-├── data/
+├── datasets/
 │   ├── restaurants.csv
 │   ├── restaurant_menus_parte_1.csv
 │   ├── restaurant_menus_parte_2.csv
