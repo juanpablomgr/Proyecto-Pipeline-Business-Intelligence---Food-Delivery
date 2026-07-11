@@ -57,9 +57,9 @@ estratégica** orientada a la toma de decisiones del CEO.
 | 4 | ⭐ Correlación Precio vs Calidad | Correlación 0.79, precio no garantiza calidad | ![Correlacion](img/img4.png) |
 ---
 
-## 💡 Conclusión Estratégica
+## 💡 Conclusiones de negocio
 
-> **Lanzar el servicio en Seattle, posicionarse en segmento económico y apostar por un servicio de calidad, esa combinación captura el mayor volumen del mercado con el menor riesgo.**
+- **Lanzar el servicio en Seattle, posicionarse en segmento económico y apostar por un servicio de calidad, esa combinación captura el mayor volumen del mercado con el menor riesgo.**
 
 - **Seattle** es la ciudad prioritaria, lidera en cantidad de restaurantes y precio promedio
 - El **75.3%** del mercado es económico, este segmento garantiza mayor volumen de mercado disponible.
