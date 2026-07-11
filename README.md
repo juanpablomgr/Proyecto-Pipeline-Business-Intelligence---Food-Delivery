@@ -51,10 +51,10 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 | # | Pregunta | Insight | Gráfico |
 |:--|:---------|:--------|:--------|
-| 1 | 🏙️ Penetración Geográfica | Seattle lidera con 388 restaurantes | ![Ciudades](img1.png) |
-| 2 | 💰 Distribución de Precios | El 75% opera en segmento Económico | ![Precios](img2.png) |
-| 3 | 🍽️ Precio Promedio por Ciudad | Seattle lidera con $12.05 USD promedio | ![Ciudad](img3.png) |
-| 4 | ⭐ Correlación Precio vs Calidad | Correlación 0.79 — precio no garantiza calidad | ![Correlacion](img4.png) |
+| 1 | 🏙️ Penetración Geográfica | Seattle lidera con 388 restaurantes | ![Ciudades](img/img1.png) |
+| 2 | 💰 Distribución de Precios | El 75% opera en segmento Económico | ![Precios](img/img2.png) |
+| 3 | 🍽️ Precio Promedio por Ciudad | Seattle lidera con $12.05 USD promedio | ![Ciudad](img/img3.png) |
+| 4 | ⭐ Correlación Precio vs Calidad | Correlación 0.79 — precio no garantiza calidad | ![Correlacion](img/img4.png) |
 ---
 
 ## 💡 Conclusión Estratégica
