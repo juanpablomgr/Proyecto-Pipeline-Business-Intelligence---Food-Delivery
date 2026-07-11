@@ -1,4 +1,4 @@
-# 🚀 Pipeline ETL & Inteligencia de Mercado — Food Delivery USA
+# 📊 Pipeline ETL & Inteligencia de Mercado — Food Delivery USA
 
 Este proyecto presenta un análisis integral del mercado de food delivery 
 en Estados Unidos, documentando todo el ciclo de vida de los datos: 
@@ -15,14 +15,14 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ---
 
-## 📐 Arquitectura del Pipeline
+## 📐 Arquitectura del Pipeline (ETL & BI)
 
 | Fase | Descripción |
 |:-----|:------------|
 | **Extract** | Carga de `restaurants.csv` y 10 archivos de menús mediante bucle automático |
 | **Transform** | Limpieza de precios, mapeo de rangos, split de direcciones y filtros de calidad |
 | **Load** | Carga a base de datos SQLite mediante SQLAlchemy |
-| **BI** | 4 queries SQL con visualizaciones estratégicas en Matplotlib |
+| **Business Intelligence** | 4 queries SQL con visualizaciones estratégicas en Matplotlib |
 
 ---
 
@@ -35,7 +35,7 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ---
 
-## 🔧 Transformaciones Aplicadas
+## 🔧 Transformaciones Realizadas
 
 | Transformación | Detalle |
 |:---------------|:--------|
