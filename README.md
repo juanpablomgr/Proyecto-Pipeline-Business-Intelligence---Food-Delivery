@@ -5,6 +5,12 @@ en Estados Unidos, documentando todo el ciclo de vida de los datos:
 desde la **extracción y limpieza (ETL)** hasta la **visualización 
 estratégica** orientada a la toma de decisiones del CEO.
 
+## 🛵 Contexto de Negocio
+
+Una startup de Food Delivery busca expandirse en Estados Unidos y necesita entender el mercado antes de lanzar su aplicación.  El objetivo es analizar cómo operan los competidores actuales, qué categorías dominan el mercado y cómo se comportan los precios según la región.
+
+A partir de dos archivos crudos entregados por el equipo de Web Scraping, se construyó un pipeline ETL completo que transforma más de **900,000 registros** en inteligencia de negocio accionable para que el CEO pueda decidir con respaldo en datos en que segmentos de mercado invertir.
+
 ---
 
 ## 🧑‍💻 Tecnologías Utilizadas
