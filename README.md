@@ -7,7 +7,7 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🧑‍💻 Tecnologías Utilizadas
 - **Lenguaje:** Python, SQL (SQLite)
 - **Bibliotecas:** `Pandas`, `NumPy`, `Matplotlib`, `SQLAlchemy`
 - **Base de Datos:** SQLite (`delivery_insights.db`)
@@ -15,7 +15,7 @@ estratégica** orientada a la toma de decisiones del CEO.
 
 ---
 
-## ⚙️ Arquitectura del Pipeline
+## 📐 Arquitectura del Pipeline
 
 | Fase | Descripción |
 |:-----|:------------|
