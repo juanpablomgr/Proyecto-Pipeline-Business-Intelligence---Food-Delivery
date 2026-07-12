@@ -65,12 +65,12 @@ A partir de dos archivos crudos entregados por el equipo de Web Scraping, se con
 
 ## 💡 Conclusiones de negocio
 
-- **Lanzar el servicio en Seattle, posicionarse en segmento económico y apostar por un servicio de calidad, esa combinación captura el mayor volumen del mercado con el menor riesgo.**
+- Lanzar el servicio en Seattle, posicionarse en segmento económico y apostar por un servicio de calidad, esa combinación captura el mayor volumen del mercado con el menor riesgo.
 
-- **Seattle** es la ciudad prioritaria, lidera en cantidad de restaurantes y precio promedio
-- El **75.3%** del mercado es económico, este segmento garantiza mayor volumen de mercado disponible.
-- Los restaurantes **económicos superan en score** a los moderadamente caros
-- Un precio más alto **no garantiza** mejor experiencia al usuario
+- Seattle es la ciudad prioritaria, lidera en cantidad de restaurantes y precio promedio
+- El 75.3% del mercado es económico, este segmento garantiza mayor volumen de mercado disponible.
+- Los restaurantes económicos superan en score a los moderadamente caros
+- Un precio más alto no garantiza mejor experiencia al usuario
 
 ---
 
